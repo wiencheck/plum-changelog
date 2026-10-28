@@ -1,0 +1,47 @@
+{
+  "10.2.4": [
+    {
+      "title": "Improved Folder view",
+      "description": "Folder view gets updated with new header and better laid-out menu options.",
+      "system_image": "sparkles.rectangle.stack.fill"
+    }
+  ],
+  "10.2.3": [
+    {
+      "title": "Song ratings",
+      "description": "You can now Like/Dislike any song. This uses Apple Music API so the ratings will be visible in the AM app and will be used for Smart Playlists.",
+      "system_image": "hand.thumbsdown.hand.thumbsup.filled"
+    }
+  ],
+  "10.2.2": [
+    {
+      "title": "Play favourites",
+      "description": "While on Album/Artist/Playlist you can now choose to play only songs that are added to Favourites. Tap Play icon in header to display this option",
+      "system_image": "heart.text.square"
+    }
+  ],
+  "10.2.1": [
+    {
+      "title": "Modernized look",
+      "description": "Plum now supports Liquid Glass across most of its UI. ",
+      "system_image": "rectangle.badge.sparkles.fill"
+    }
+  ],
+  "10.2": [
+    {
+      "title": "Refreshed visuals",
+      "description": "Album, Artist and Playlist screens get a visual refresh. Featuring first touch of Liquid Glass in the app (which I'm slowly growing fond of)",
+      "system_image": "rectangle.badge.sparkles.fill"
+    },
+    {
+      "title": "Playlist Folders",
+      "description": "Apple Music Playlist Folders are now displayed in Folders tab",
+      "system_image": "music.note.square.stack"
+    },
+    {
+      "title": "Search",
+      "description": "Replaced built-in MusicKit's search solution with a much faster, fully custom one (Apple Music variant)",
+      "system_image": "magnifyingglass"
+    }
+  ]
+}
