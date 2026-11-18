@@ -1,4 +1,16 @@
 {
+  "10.2.5": [
+    {
+      "title": "Revamped Queue Builder",
+      "description": "Now with updated interface and new options allowing you to browse previously played queues or to save current one as playlist.",
+      "system_image": "music.note.list"
+    },
+    {
+      "title": "Shake to shuffle",
+      "description": "When nothing is playing shaking the device will start playing random song from your library. This can be disabled from \"Other\" settings page.",
+      "system_image": "iphone.gen2.motion"
+    }
+  ],
   "10.2.4": [
     {
       "title": "Improved Folder view",
